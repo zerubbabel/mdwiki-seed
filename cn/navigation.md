@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](flatly)
 
 
 <!--
@@ -20,7 +20,9 @@
   -->
 
 [About](pages/about.md)
-[Download](pages/download.md)
+[Sites](pages/sites.md)
+[Algorithms](pages/algorithms/index.md)
+
 
 <!-- A more complex navigation example: ----------------------------------------
 
@@ -60,6 +62,5 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-<!--
-[gimmick:themechooser](Choose theme)
--->
+[gimmick:themechooser](风格)
+
