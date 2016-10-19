@@ -22,6 +22,7 @@
 [About](pages/about.md)
 [Sites](pages/sites.md)
 [Algorithms](pages/algorithms/index.md)
+[IT](pages/IT/index.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------
