@@ -9,6 +9,10 @@
 [Design and analysis of Algorithms](http://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html)
 [Algorithms and Data Structures](http://www.allisons.org/ll/AlgDS/)
 [Jeff Erickson's Teaching](http://jeffe.cs.illinois.edu/teaching/index.html)
+##  Daily
+[codewars](http://www.codewars.com/)
+[udacity](https://cn.udacity.com/)
+[cs50](http://cs50.tv/2015/fall/) or [cs50 at harvard](https://cs50.harvard.edu/)
 ## 其他
 
 

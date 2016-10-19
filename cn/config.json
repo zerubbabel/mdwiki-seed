@@ -3,5 +3,6 @@
   "anchorCharacter": "#",
   "lineBreaks": "gfm",
   "title": "Zeru's wiki",
-  "useSideMenu": true
+  "useSideMenu": true,
+  "favicon": "favicon"
 }

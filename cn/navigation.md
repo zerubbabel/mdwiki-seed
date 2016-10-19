@@ -24,6 +24,19 @@
 [Algorithms](pages/algorithms/index.md)
 [IT](pages/IT/index.md)
 
+[Study]()
+
+  * [Intro computer science](pages/study/Intro computer science.md)
+  * [cs50](pages/study/cs50.md)
+
+
+[codewars]()
+
+  * [Python](pages/codewars/Python.md)
+  * [js](pages/codewars/js.md)
+
+
+
 
 <!-- A more complex navigation example: ----------------------------------------
 
@@ -65,3 +78,4 @@
 
 [gimmick:themechooser](风格)
 
+[gimmick:ForkMeOnGitHub ({ color: 'red',  position: 'right' })](https://github.com/zerubbabel/zeru-wiki)
