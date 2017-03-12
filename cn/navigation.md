@@ -26,8 +26,10 @@
 
 [Study]()
 
+  * [Plan](pages/study/Plan.md)
   * [Intro computer science](pages/study/Intro computer science.md)
   * [cs50](pages/study/cs50.md)
+  * [ACM的正确入门方式](pages/study/ACM.md)
 
 
 [codewars]()
