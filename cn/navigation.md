@@ -27,7 +27,16 @@
 [pascal]()
 
   * [1.HelloWorld](pages/pascal_tutorial/1.helloworld.md)
-  
+
+[挑战编程]()
+
+  * # 目录
+  * [目录](pages/PCCP/index.md)  
+  * [练习](pages/PCCP/problems/index.md)
+
+  - - - -
+  * # 第2章
+  * [2.1 最基础的穷竭搜索](pages/PCCP/2.1Search.md)  
 
 [Study]()
 
