@@ -31,12 +31,12 @@
 [挑战编程]()
 
   * # 目录
-  * [目录](pages/PCCP/index.md)  
-  * [练习](pages/PCCP/problems/index.md)
+  * [目录](pages/PCCB/index.md)  
+  * [练习](pages/PCCB/problems/index.md)
 
   - - - -
   * # 第2章
-  * [2.1 最基础的穷竭搜索](pages/PCCP/2.1Search.md)  
+  * [2.1 最基础的穷竭搜索](pages/PCCB/2.1Search.md)  
 
 [Study]()
 
