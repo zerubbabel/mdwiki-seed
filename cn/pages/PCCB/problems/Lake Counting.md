@@ -1,5 +1,7 @@
 # Lake Counting (POJ No.2386 USACO 2004 November)
 
+[Lake Counting](https://vjudge.net/problem/POJ-2386)
+
 Due to recent rains, water has pooled in various places in Farmer John's field, which is represented by a rectangle of N x M (1 <= N <= 100; 1 <= M <= 100) squares. Each square contains either water ('W') or dry land ('.'). Farmer John would like to figure out how many ponds have formed in his field. A pond is a connected set of squares with water in them, where a square is considered adjacent to all eight of its neighbors. 
 
 Given a diagram of Farmer John's field, determine how many ponds he has.

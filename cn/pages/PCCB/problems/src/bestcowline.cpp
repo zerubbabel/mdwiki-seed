@@ -1,3 +1,8 @@
+/*Best Cow Line 
+POJ - 3617
+USACO 2007 November Silver
+sol:greedy
+*/
 #include <iostream>
 #include <algorithm>
 #include <string>
