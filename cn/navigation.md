@@ -24,6 +24,8 @@
 [Algorithms](pages/algorithms/index.md)
 [IT](pages/IT/index.md)
 
+[oj_problems](pages/oj_problems/index.md)
+
 [pascal]()
 
   * [1.HelloWorld](pages/pascal_tutorial/1.helloworld.md)

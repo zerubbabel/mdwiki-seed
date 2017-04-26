@@ -40,6 +40,28 @@ OUTPUT DETAILS:
 
 There are three ponds: one in the upper left, one in the lower left,and one along the right side.
 
+# 水洼
+[问题描述]
+有一个大小为M*N的园子，雨后积起了水。Tom想要数一数园子里共有多少个水洼。把连通的积水认为是连接在一起的同一个水洼。请帮忙计算园子里共有多少个水洼。(八连通是指下图中相对W的8个*部分)
+***
+*W*
+***
+[样例输入]
+10 12
+W........WW.
+.WWW.....WWW
+....WW...WW.
+.........WW.
+.........W..
+..W......W..
+.W.W.....WW.
+W.W.W.....W.
+.W.W......W.
+..W.......W.
+[样例输出]
+3
+[数据范围]
+(1 <= N <= 100; 1 <= M <= 100)
 
 ------
 # solve

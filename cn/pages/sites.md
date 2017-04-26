@@ -16,6 +16,9 @@
 [HDU Online Judge ](http://acm.hdu.edu.cn/)
 [hackerrank](https://www.hackerrank.com/domains)
 [codecademy](https://www.codecademy.com/learn)
+
+## Blogs on programming competition
+[程序控](http://www.cnblogs.com/devymex/)
 ## 其他
 
 
