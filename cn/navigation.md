@@ -21,6 +21,7 @@
 
 [About](pages/about.md)
 [Sites](pages/sites.md)
+[Git](pages/git.md)
 [Algorithms](pages/algorithms/index.md)
 [IT](pages/IT/index.md)
 
