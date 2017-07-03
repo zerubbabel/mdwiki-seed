@@ -20,6 +20,7 @@
   -->
 
 [About](pages/about.md)
+[Deck.js](pages/deck.js/index.md)
 [Sites](pages/sites.md)
 [Git](pages/git.md)
 [Algorithms](pages/algorithms/index.md)
@@ -40,6 +41,11 @@
   - - - -
   * # 第2章
   * [2.1 最基础的穷竭搜索](pages/PCCB/2.1Search.md)  
+
+[UASCO]()
+
+  * # 目录
+  * [目录](pages/usaco/index.md)  
 
 [Study]()
 
