@@ -9,6 +9,7 @@
 [Design and analysis of Algorithms](http://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html)
 [Algorithms and Data Structures](http://www.allisons.org/ll/AlgDS/)
 [Jeff Erickson's Teaching](http://jeffe.cs.illinois.edu/teaching/index.html)
+
 ##  Daily
 [codewars](http://www.codewars.com/)
 [udacity](https://cn.udacity.com/)
@@ -16,11 +17,13 @@
 [HDU Online Judge ](http://acm.hdu.edu.cn/)
 [hackerrank](https://www.hackerrank.com/domains)
 [codecademy](https://www.codecademy.com/learn)
-
+[nodeschool](https://nodeschool.io/)
+[hackerearth](https://www.hackerearth.com)
 ## Blogs on programming competition
 [程序控](http://www.cnblogs.com/devymex/)
+
+
+## Great
+[freekidsbooks](https://freekidsbooks.org/)
+[freecomputerbooks](http://freecomputerbooks.com/)
 ## 其他
-
-
-
-

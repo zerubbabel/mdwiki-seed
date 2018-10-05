@@ -25,7 +25,6 @@
 [Git](pages/git.md)
 [Algorithms](pages/algorithms/index.md)
 [IT](pages/IT/index.md)
-
 [oj_problems](pages/oj_problems/index.md)
 
 [pascal]()
@@ -53,10 +52,10 @@
   * [Intro computer science](pages/study/Intro computer science.md)
   * [cs50](pages/study/cs50.md)
   * [ACM的正确入门方式](pages/study/ACM.md)
-  * [Web Programming with Python and JavaScript](https://cs50.github.io/web/2018/spring/lectures)
-
+  * [Web](pages/study/Web.md)
+  * [Algorithm](pages/study/Algorithm.md)
+  * [CS's Web](pages/study/Web.md)
 [codewars]()
-
   * [Python](pages/codewars/Python.md)
   * [js](pages/codewars/js.md)
 
