@@ -45,7 +45,6 @@
 
   * # 目录
   * [目录](pages/usaco/index.md)  
-
 [Study]()
 
   * [Plan](pages/study/Plan.md)
